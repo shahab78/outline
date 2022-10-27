@@ -1,0 +1,6 @@
+{
+    "server": "95.179.151.179",
+    "server_port": 443,
+    "password": "R5Nk0FbG9nh9",
+    "method": "chacha20-ietf-poly1305"
+}
